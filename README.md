@@ -1,2 +1,3 @@
-# Neataro
-basic python ai tool
+# Neataro|work in progress|
+basic python ai tool  
+
